@@ -30,9 +30,9 @@ sudo apt install -y mosquitto mosquitto-clients
 This library is needed because it is a lightweight open network protocol that usually runs over tcp / ip which allows sending and receiving data via Wi-Fi and is perfect for IoT applications.
 
 * to install paho-mqtt
- sh 
-pip install paho-mqtt
-
+ ´´´sh 
+pip install paho-mqtt 
+´´´
 that library helps to implement versions 3.1 and 3.1.1 of the MQTT protocol.
 * to install fask: 
  sh 
