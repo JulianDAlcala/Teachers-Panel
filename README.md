@@ -83,18 +83,12 @@ into the Additional Board Manager URLs field. You can add multiple URLs, separat
 next to go to the card manager and the search engine write " esp8266"  and select "esp0266 community" then tool plate and select generic esp8266 module the flash size is set to " 4M (1M SPIFFS) " and "upload speed: 115200" and the serial port is configured.
 
 # *How to RUN*
-Lo primero es crear una carpeta para depositar todos los archivos necesarios.
- sh
-cd
-cd Desktop/
-mkdir web
-cd web/
 
-ahora, dentro de esta carpeta se copian los archivos "app.py, Horarios.xlsx y la se crea la carpeta templates"
- sh
-mkdir templates
+The first is to create a folder to deposit all the necessary files. sh cd cd Desktop / mkdir web cd web /
 
-dentro de la carpeta templates se copian los archivos "main.html y horarios.html"
+Now, the files "app.py, Timetables.xlsx" are copied into this folder and the templates folder is created "sh mkdir templates
+
+the files "main.html and schedules.html" are copied into the templates folder
 
 # *University of Ibague*
 Programa de Ingeniería Electrónica
