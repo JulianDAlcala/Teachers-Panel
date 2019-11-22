@@ -1,6 +1,6 @@
 # TEACHER´S PANEL
 A repository for a attention panel of students to help communicate with teachers in counseling schedule.
-* Watch the Youtube video :
+* Watch the Youtube video : https://youtu.be/uIdCQleRSG4
 # This repository contents:
 
 * Source code
