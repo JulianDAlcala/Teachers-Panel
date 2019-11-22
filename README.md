@@ -84,12 +84,14 @@ next to go to the card manager and the search engine write " esp8266"  and selec
 
 # *How to RUN*
 
-The first is to create a folder to deposit all the necessary files. sh cd cd Desktop / mkdir web cd web /
+The first is to create a folder to deposit all the necessary files. 
 
+´´´sh  
+cd cd Desktop / mkdir web cd web /
+´´´
 Now, the files "app.py, Timetables.xlsx" are copied into this folder and the templates folder is created "sh mkdir templates
 
 the files "main.html and schedules.html" are copied into the templates folder
-
 # *University of Ibague*
 Programa de Ingeniería Electrónica
 Electrónica Digital III 2019B
